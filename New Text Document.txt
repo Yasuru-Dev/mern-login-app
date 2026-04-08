@@ -1,0 +1,13 @@
+USERNAME MONGO DB-yasurudanushka_db_user
+PASSWORD-D6r0eLJ2Ot6jtHEI
+Connection string-mongodb+srv://yasurudanushka_db_user:D6r0eLJ2Ot6jtHEI@cluster0.7awtuii.mongodb.net/?appName=Cluster0
+
+
+
+terminal 1-
+cd "D:\Login register form\client"
+npm run dev
+
+terminal 2-
+cd "D:\Login register form\server"
+npm run dev
